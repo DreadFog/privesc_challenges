@@ -1,8 +1,7 @@
 # privesc_challenges
 ## Different methods covered
-- [x] Readable shadow file and weak root password
-- [ ] SUID capabilities
-- [x] SUDO capabilities
-- [ ] Cron jobs
-- [x] Relative module path injection in an interpreted language (python)
-- [ ] Relative module path injection in a compiled language(c) 
+- [x] Readable shadow file and weak root password -> machine03
+- [ ] SUID capabilities -> machine05
+- [x] SUDO capabilities -> machine01
+- [x] Cron jobs -> machine02
+- [x] Relative module path injection in an interpreted language (python) -> machine04
