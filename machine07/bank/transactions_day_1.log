@@ -1,0 +1,21 @@
+BANKING APP LOG FILE
+BALANCES AS OF 2022-12-31
+ACCOUNT_ID    ACCOUNT_FIRSTNAME   ACCOUNT_LASTNAME    ACCOUNT_BALANCE
+0             John                Doe                       0.00
+1             Jane                Doe                       0.00
+2             John                Smith                     0.00
+3             Jane                Smith                     0.00
+4             Peter               Parker                    0.00
+
+ACTIONS MADE DURING THE DAY:
+2022-12-31 00:00:00.000000000 - John Doe made a deposit of $100.00
+2022-12-31 00:00:00.000000000 - Jane Doe made a deposit of $100.00
+2022-12-31 00:00:00.000000000 - John Smith made a deposit of $100.00
+2022-12-31 00:00:00.000000000 - Jane Smith made a deposit of $100.00
+2022-12-31 00:00:00.000000000 - Peter Parker made a deposit of $100.00
+2022-12-31 10:31:00.120000000 - John Doe wired $100.00 to Jane Doe
+2022-12-31 14:12:45.371520000 - John Smith withdrew $100.00 
+2022-12-31 15:25:08.917210000 - Jane Smith withdrew $100.00
+2022-12-31 16:00:00.000000000 - Peter Parker made a deposit of $100.00
+
+

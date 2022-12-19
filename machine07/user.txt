@@ -1,0 +1,4 @@
+Horizontal Privilege escalation, Yay! 
+flag: hw24o5C12UM7
+
+Second part: become root!

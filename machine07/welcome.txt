@@ -1,0 +1,10 @@
+Hi, Underprivileged, and welcome to the company!
+I am Quentin, the accountant and I first need to grab some info about you:
+It will be used to present yourself to the other employees of the company!
+
+In order to do so, please fill out the file located in /home/accountant/user_info/underprivileged.txt using vi.
+Also, note that some IT guy helped me allow you to write in that file, which belongs to me :)
+
+Sincerely yours,
+
+Quentin - Accounting department

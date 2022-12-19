@@ -1,0 +1,15 @@
+BANKING APP LOG FILE
+BALANCES AS OF 2023-01-01
+ACCOUNT_ID    ACCOUNT_FIRSTNAME   ACCOUNT_LASTNAME    ACCOUNT_BALANCE
+0             John                Doe                      0.00
+1             Jane                Doe                     200.00
+2             John                Smith                    0.00
+3             Jane                Smith                    0.00
+4             Peter               Parker                  200.00
+
+ACTIONS MADE DURING THE DAY:
+2023-01-01 10:05:23.826000000 - John Doe made a deposit of $100.00
+2023-01-01 11:00:55.187200000 - Jane Doe withdrew $10.00
+
+
+
